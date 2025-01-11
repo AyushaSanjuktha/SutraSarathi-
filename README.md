@@ -40,8 +40,8 @@ The following dependencies are required to run the application:
 ## Files
 1. **`app.py`** - Main Python script for running the application.
 2. **`requirements.txt`** - List of dependencies.
-3. **`bs.csv`** - Dataset containing verses from the Bhagavad Gita.
-4. **`ps.csv`** - Dataset containing verses from Patanjali Yoga Sutras.
+3. **`Bhagwad_Gita_Verses_English_Questions.csv`** - Dataset containing verses from the Bhagavad Gita.
+4. **`Patanjali_Yoga_Sutras_Verses_English_Questions.csv`** - Dataset containing verses from Patanjali Yoga Sutras.
 
 ## Installation and Setup
 Follow these steps to set up and run the application:
