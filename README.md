@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ```
 
 ### Step 3: Ensure Dataset Files
-Ensure `bs.csv` and `ps.csv` are in the same directory as `app.py`. These files contain the Bhagavad Gita and Patanjali Yoga Sutras datasets.
+Ensure `Bhagwad_Gita_Verses_English_Questions.csv` and `Patanjali_Yoga_Sutras_Verses_English_Questions.csv` are in the same directory as `app.py`. These files contain the Bhagavad Gita and Patanjali Yoga Sutras datasets.
 
 ### Step 4: Run the Application
 Start the application by running:
