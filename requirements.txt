@@ -5,3 +5,5 @@ faiss-cpu
 transformers
 gradio
 scikit-learn
+pyngrok
+
