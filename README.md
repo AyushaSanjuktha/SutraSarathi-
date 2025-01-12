@@ -109,8 +109,8 @@ python app.py
 1. **Files to Include**:
    - `app.py`
    - `requirements.txt`
-   - `bs.csv`
-   - `ps.csv`
+   - `Bhagwad_Gita_Verses_English_Questions.csv`
+   - `Patanjali_Yoga_Sutras_Verses_English_Questions.csv`
    - `README.md`
 
 2. **Testing**:
